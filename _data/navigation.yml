@@ -1,10 +1,13 @@
 # Site navigation links
 
+- title: Articles
+  url: /articles/
+
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Buku
+  url: http://agung-setiawan.com/bukuvim
 
 - title: Blog
   url: /blog/
