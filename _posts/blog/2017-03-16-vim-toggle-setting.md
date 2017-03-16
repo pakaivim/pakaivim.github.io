@@ -9,6 +9,7 @@ image:
   feature:
 date: 2017-03-16T15:39:55-04:00
 modified: 2016-06-01T14:19:19-04:00
+comments: true
 ---
 
 Kira-kira sampai saat ini saya sudah menggunakan Vim selama 9 bulan dan saya merasa nyaman menggunakannya hingga merasa kikuk jika harus menggunakan *editor* yang lain. Pada titik ini bisa dibilang saya mahir menggunakan Vim tetapi hal ini tidak membuat saya berhenti untuk mempelajari Vim. Vim itu luas jadi pasti ada saja hal-hal yang terlewatkan meskipun sifatnya dasar.
