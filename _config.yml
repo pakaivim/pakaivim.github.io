@@ -5,8 +5,7 @@ locale: en_US
 description: Berbagi cerita para pengguna Vim
 #logo: vim-logo-en-50.png
 search: true
-url: https://pakaivim.com
-enforce_ssl: pakaivim.com
+url: http://pakaivim.com
 comments: true
 
 # Jekyll configuration
