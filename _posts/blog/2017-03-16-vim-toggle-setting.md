@@ -3,7 +3,7 @@ layout: post
 title: "Vim Toggle Setting"
 modified:
 categories: blog
-excerpt: "Cara mudah untuk mengaktifkan dan menonaktifkan pengatuan di Vim yang sifatnya boolean"
+excerpt: "Cara mudah mengaktifkan dan menonaktifkan pengatuan di Vim yang sifatnya boolean"
 tags: []
 image:
   feature:
