@@ -1,26 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: Tentang Pakai Vim
+excerpt: "Pakai Vim adalah sebuah blog yang berisi wawancara dengan pengguna vim tentang pengalaman mereka menggunakan vim."
+modified: 2017-03-16T11:10:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Belajar Vim memang susah, tidak ada yang bilang gampang. Yang bilang gampang adalah mereka yang sudah menguasainya. Proses belajar dan proses penggunaan Vim untuk bekerja itu bagi setiap orang sifatnya unik. Oleh karena itu, **Pakai Vim** ini dibuat sebagai media untuk berbagi pengalaman para pengguna Vim tentang berbagai cerita seputar Vim mau pun pekerjaan sehari-hari yang berkaitan dengan *text editor* ini.
 
-## So Simple Theme is all about:
+## Konten yang dimiliki oleh situs ini kurang lebih akan bercerita soal:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+* Latar belakang nara sumber
+* Proses belajar Vim saat baru pertama memakai Vim
+* Konfigurasi `.vimrc` yang dipakai
+* Trik seputar Vim
