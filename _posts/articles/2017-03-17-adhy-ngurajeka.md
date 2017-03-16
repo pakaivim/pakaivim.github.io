@@ -160,3 +160,10 @@ Menurut saya ada beberapa
 5. Minimal seminggu sekali liat liat vimcast di youtube
 
 Tapi sebenarnya intinya adalah yah pakai aja, dibiasakan. Kalau gak tahu cara ini dan itu tanya ke orang yang lebih tahu atau sudah lebih dulu pakai vim.
+
+Kontak Mas Ady :
+
+* [Facebook](https://www.facebook.com/ngurajeka.92)
+* [Twitter](https://twitter.com/ngurajeka)
+* [Github](https://github.com/ngurajeka)
+* Email: ganteng@namague.com
