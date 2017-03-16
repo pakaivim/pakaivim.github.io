@@ -5,10 +5,10 @@ excerpt: "Software Engineer, Thinker"
 modified: 2017-03-17T14:17:25-04:00
 categories: articles
 tags:
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+#image:
+#  feature: so-simple-sample-image-1.jpg
+#  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
@@ -132,7 +132,7 @@ Wah itu belum mas, so far karena kebutuhan saya sudah terpenuhi bahkan lebih jad
 
 `:set number!`
 
-**itu ternyata jadinya toggle haha baru tahu**
+**itu ternyata jadinya [toggle](/blog/vim-toggle-setting/) haha baru tahu**
 
 Apa yah, saya gak begitu seneng sama magick sih haha.
 
