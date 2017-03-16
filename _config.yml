@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Pakai Vim
 locale: en_US
-description: Describe your website here.
+description: Berbagi cerita para pengguna Vim
 logo: site-logo.png
 search: true
 url: https://pakaivim.github.io
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Agung Setiawan
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: com.agungsetiawan@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: https://twitter.com/agungsetiawanmu
+  facebook: https://www.facebook.com/agungsetiawanmu
+  github: agungsetiawan
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
