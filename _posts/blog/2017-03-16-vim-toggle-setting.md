@@ -7,13 +7,13 @@ excerpt: "Cara mudah untuk mengaktifkan dan menonaktifkan pengatuan di Vim yang 
 tags: []
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2017-03-16T15:39:55-04:00
 modified: 2016-06-01T14:19:19-04:00
 ---
 
 Kira-kira sampai saat ini saya sudah menggunakan Vim selama 9 bulan dan saya merasa nyaman menggunakannya hingga merasa kikuk jika harus menggunakan *editor* yang lain. Pada titik ini bisa dibilang saya mahir menggunakan Vim tetapi hal ini tidak membuat saya berhenti untuk mempelajari Vim. Vim itu luas jadi pasti ada saja hal-hal yang terlewatkan meskipun sifatnya dasar.
 
-Baru-baru ini saya membeli 2 buah buku vim. Yang pertama adalah (Practical Vim)[] dan yang kedua (Painless Vm)[]. Judul yang pertama ditujukan bagi mereka yang sudah lancar menggunakan Vim tetapi menginginkan ilmu yang lebih sedangkan yang kedua ditargetkan untuk pemula.
+Baru-baru ini saya membeli 2 buah buku vim. Yang pertama adalah [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) dan yang kedua [Painless Vm](https://leanpub.com/painless_vim). Judul yang pertama ditujukan bagi mereka yang sudah lancar menggunakan Vim tetapi menginginkan ilmu yang lebih sedangkan yang kedua ditargetkan untuk pemula.
 
 Saat ini saya sedang membaca judul yang kedua karena ingin memastikan tidak ada ilmu dasar yang saya lewatkan. Dan ternyata ada!. Baru beberapa halaman membaca buku ini saya menemukan sebuah ilmu dasar baru yaitu tentang melakukan *togglet* terhadap konfigurasi di Vim yang sifatnya *boolean*.
 
