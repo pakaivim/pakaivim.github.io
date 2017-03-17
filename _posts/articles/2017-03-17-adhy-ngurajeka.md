@@ -3,7 +3,7 @@ layout: post
 title: Adhy Ngurajeka
 excerpt: "Software Engineer, Thinker"
 modified: 2017-03-17T14:17:25-04:00
-categories: articles
+categories: cerita
 tags:
 #image:
 #  feature: so-simple-sample-image-1.jpg
