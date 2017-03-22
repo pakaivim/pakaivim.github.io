@@ -31,6 +31,8 @@ Jaman itu punya friendster dengan template keren aja udah girang dan sejak saat 
 
 Cara saya belajar selalu dengan menantang diri saya, semisal saya pengen belajar "A" saya cari *project* yg berkaitan dengan A. Dapat rejekinya, dapat ilmunya 😀
 
+[![](/images/vim-banner.png)](http://agung-setiawan.com/bukuvim)
+
 **Wih keren-keren, bisa berani gitu ya? Btw dulu kenalnya bahasa apa Mas pertama? Dan sekarang yang dikuasai dan dipakai di kerjaan apa?**
 
 😁  Sengaja pakai cara belajar sprti itu biar gak males haha. Awalnya PHP, sampai 2013 pindah ke Python. Habis itu 2015 balik pakai PHP lagi, kemudian 2016 pindah ke Go.
@@ -149,6 +151,8 @@ Jadi saya cuman nulis kayak gini mas.
 **Menarik. Kira-kira kalau diterapkan ke theme bisa?**
 
 Kalau pakai cara di atas sih gak bisa mas, tapi munggkin bisa pakai control flow, soalnya saya juga ngendaliin colorscheme saya pakai control flow, jadi bisa set colorscheme yg berbeda untuk console dan macvim.
+
+[![](/images/vim-banner.png)](http://agung-setiawan.com/bukuvim)
 
 **Bisa kasih saran atau petunjuk bagi mereka yang baru mulai belajar vim? Biasanya pada kesusahan belajar terus muntah-muntah**
 
