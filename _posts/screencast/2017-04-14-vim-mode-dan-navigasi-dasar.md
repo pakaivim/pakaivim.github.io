@@ -14,6 +14,8 @@ comments: true
 
 Saat ini saya sedang getol-getolnya belajar membuat *screencast*. Kemarin lalu saya sudah berhasil membuat *screencast* yang membahas Ruby yang bisa dinikmati hasilnya di [idrails](https://facebook.com/idrails), jangan lupa klik tombol *like* biar selalu update tiap kali saya membuat video baru ;)
 
+[![](/images/vim-banner.png)](http://agung-setiawan.com/bukuvim)
+
 Dan pada kesempatan kali ini, masih dalam tahap belajar membuat *screencast* juga, saya membuat tutorial dasar penggunaan vim dari mulai membuka vim, pengenalan mode-mode yang sering digunakan serta navigasi kursor ke arah atas, bawah, kanan dan kiri.
 
 Saya minta masukannya demi kualitas yang jauh lebih baik. Kalau berkenan, silakan di-share supaya temannya yang lain juga bisa belajar. Selamat menikmati!
