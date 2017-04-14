@@ -3,7 +3,7 @@ layout: post
 title: "Vim Mode dan Navigasi Dasar [Screencast]"
 modified:
 categories: screencast
-excerpt: "Cara mudah mengaktifkan dan menonaktifkan pengatuan di Vim yang sifatnya boolean"
+excerpt: "Pengenalan vim dasar dari cara membuka hingga menyimpan file serta navigasi kursor"
 tags: []
 image:
   feature:
